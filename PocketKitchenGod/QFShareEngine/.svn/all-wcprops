@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/qfproj/!svn/ver/10676/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine
+END
+OAuthController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10594/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/OAuthController.m
+END
+SinaOAuthManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/SinaOAuthManager.m
+END
+QFShareType.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/QFShareType.h
+END
+TencentOAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/TencentOAuthManager.h
+END
+WeixinOAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/WeixinOAuthManager.h
+END
+QFShareType.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/QFShareType.m
+END
+WeiboHTTPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/WeiboHTTPManager.h
+END
+TencentOAuthManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/TencentOAuthManager.m
+END
+TokenModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/TokenModel.h
+END
+WeixinOAuthManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qfproj/!svn/ver/10676/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/WeixinOAuthManager.m
+END
+WeiboHTTPManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/WeiboHTTPManager.m
+END
+TokenModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/TokenModel.m
+END
+OAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/qfproj/!svn/ver/10593/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/OAuthManager.h
+END
+WeiboApiAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/WeiboApiAccount.h
+END
+OAuthLoginController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/OAuthLoginController.h
+END
+QFShareEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/qfproj/!svn/ver/10593/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/QFShareEngine.h
+END
+OAuthManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/qfproj/!svn/ver/10593/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/OAuthManager.m
+END
+OAuthLoginController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/OAuthLoginController.m
+END
+QFShareEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/qfproj/!svn/ver/10593/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/QFShareEngine.m
+END
+OAuthController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/qfproj/!svn/ver/10594/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/OAuthController.h
+END
+SinaOAuthManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/qfproj/!svn/ver/10592/teachers/oyangjian/BookShare-SinaTencentWeiXin/libs/QFShareEngine/SinaOAuthManager.h
+END

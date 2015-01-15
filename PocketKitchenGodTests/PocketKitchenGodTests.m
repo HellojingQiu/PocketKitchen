@@ -2,8 +2,8 @@
 //  PocketKitchenGodTests.m
 //  PocketKitchenGodTests
 //
-//  Created by 李超 on 14-2-16.
-//  Copyright (c) 2014年 李超. All rights reserved.
+//  Created by yxx on 14-2-16.
+//  Copyright (c) 2014年 yxx. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

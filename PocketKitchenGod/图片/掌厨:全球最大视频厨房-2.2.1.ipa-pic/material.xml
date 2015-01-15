@@ -1,0 +1,5664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <ret_code>0</ret_code>
+
+  <ret_msg>success</ret_msg>
+
+  <entity>
+    <tblMmaterialType>
+      <materialTypeId>21</materialTypeId>
+
+      <name>蔬菜-茎叶类</name>
+
+      <tblMaterial>
+        <materialId>225</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>白菜</name>
+
+        <imageFilename>20130104164115995.jpg</imageFilename>
+
+        <imagePath>20130104164115995.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164115995.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>226</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>包菜</name>
+
+        <imageFilename>20130104164141741.jpg</imageFilename>
+
+        <imagePath>20130104164141741.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164141741.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>227</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>菠菜</name>
+
+        <imageFilename>20130104164156762.jpg</imageFilename>
+
+        <imagePath>20130104164156762.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164156762.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>228</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>菜心</name>
+
+        <imageFilename>20130104164221166.jpg</imageFilename>
+
+        <imagePath>20130104164221166.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164221166.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>229</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>奶白菜</name>
+
+        <imageFilename>20130104164235221.jpg</imageFilename>
+
+        <imagePath>20130104164235221.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164235221.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>230</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>小白菜</name>
+
+        <imageFilename>20130104164253283.jpg</imageFilename>
+
+        <imagePath>20130104164253283.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164253283.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>231</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>油菜</name>
+
+        <imageFilename>20130104164311330.jpg</imageFilename>
+
+        <imagePath>20130104164311330.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164311330.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>232</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>油麦菜</name>
+
+        <imageFilename>20130104164332626.jpg</imageFilename>
+
+        <imagePath>20130104164332626.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164332626.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>233</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>生菜</name>
+
+        <imageFilename>20130104164407483.jpg</imageFilename>
+
+        <imagePath>20130104164407483.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164407483.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>234</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>葱</name>
+
+        <imageFilename>20130104164425590.jpg</imageFilename>
+
+        <imagePath>20130104164425590.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164425590.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>235</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>皇帝菜</name>
+
+        <imageFilename>20130104164536614.jpg</imageFilename>
+
+        <imagePath>20130104164536614.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164536614.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>236</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>芥菜</name>
+
+        <imageFilename>20130104164550879.jpg</imageFilename>
+
+        <imagePath>20130104164550879.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164550879.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>237</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>芥蓝</name>
+
+        <imageFilename>20130104164616444.jpg</imageFilename>
+
+        <imagePath>20130104164616444.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164616444.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>238</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>韭菜</name>
+
+        <imageFilename>2013010416463014.jpg</imageFilename>
+
+        <imagePath>2013010416463014.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010416463014.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>239</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>韭菜花</name>
+
+        <imageFilename>20130104164643903.jpg</imageFilename>
+
+        <imagePath>20130104164643903.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164643903.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>240</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>韭黄</name>
+
+        <imageFilename>20130104164657727.jpg</imageFilename>
+
+        <imagePath>20130104164657727.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164657727.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>241</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>空心菜</name>
+
+        <imageFilename>20130104164710101.jpg</imageFilename>
+
+        <imagePath>20130104164710101.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164710101.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>242</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>泥蒿</name>
+
+        <imageFilename>2013010416474844.jpg</imageFilename>
+
+        <imagePath>2013010416474844.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010416474844.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>243</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>马齿苋</name>
+
+        <imageFilename>2013010416480540.jpg</imageFilename>
+
+        <imagePath>2013010416480540.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010416480540.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>244</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>木耳菜</name>
+
+        <imageFilename>20130104164819977.jpg</imageFilename>
+
+        <imagePath>20130104164819977.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164819977.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>245</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>芹菜</name>
+
+        <imageFilename>20130104164832701.jpg</imageFilename>
+
+        <imagePath>20130104164832701.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164832701.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>246</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>蒜苗</name>
+
+        <imageFilename>20130104164844606.jpg</imageFilename>
+
+        <imagePath>20130104164844606.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164844606.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>247</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>蒜薹</name>
+
+        <imageFilename>20130104164941525.jpg</imageFilename>
+
+        <imagePath>20130104164941525.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164941525.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>248</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>茼蒿</name>
+
+        <imageFilename>20130104164958553.jpg</imageFilename>
+
+        <imagePath>20130104164958553.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104164958553.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>249</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>娃娃菜</name>
+
+        <imageFilename>20130104165013594.jpg</imageFilename>
+
+        <imagePath>20130104165013594.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165013594.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>250</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>西洋菜</name>
+
+        <imageFilename>20130104165028171.jpg</imageFilename>
+
+        <imagePath>20130104165028171.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165028171.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>251</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>苋菜</name>
+
+        <imageFilename>20130104165041479.jpg</imageFilename>
+
+        <imagePath>20130104165041479.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165041479.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>252</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>香菜</name>
+
+        <imageFilename>20130104165056719.jpg</imageFilename>
+
+        <imagePath>20130104165056719.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165056719.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>257</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>红菜薹</name>
+
+        <imageFilename>20130104165226701.jpg</imageFilename>
+
+        <imagePath>20130104165226701.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165226701.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>258</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>黄花菜</name>
+
+        <imageFilename>20130104165316348.jpg</imageFilename>
+
+        <imagePath>20130104165316348.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165316348.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>253</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>香椿</name>
+
+        <imageFilename>20130104165121628.jpg</imageFilename>
+
+        <imagePath>20130104165121628.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165121628.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>254</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>雪里蕻</name>
+
+        <imageFilename>20130104165138737.jpg</imageFilename>
+
+        <imagePath>20130104165138737.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165138737.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>255</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>紫甘蓝</name>
+
+        <imageFilename>20130104165154891.jpg</imageFilename>
+
+        <imagePath>20130104165154891.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165154891.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>259</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>花菜</name>
+
+        <imageFilename>20130104165812419.jpg</imageFilename>
+
+        <imagePath>20130104165812419.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165812419.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>260</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>西蓝花</name>
+
+        <imageFilename>2013010416582773.jpg</imageFilename>
+
+        <imagePath>2013010416582773.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010416582773.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>265</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>茭白</name>
+
+        <imageFilename>20130104165958619.jpg</imageFilename>
+
+        <imagePath>20130104165958619.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165958619.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>272</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>莴笋</name>
+
+        <imageFilename>20130104170229856.jpg</imageFilename>
+
+        <imagePath>20130104170229856.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170229856.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>485</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>榨菜</name>
+
+        <imageFilename>20130104200501289.jpg</imageFilename>
+
+        <imagePath>20130104200501289.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200501289.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>555</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>苤蓝</name>
+
+        <imageFilename>20131112103024250.jpg</imageFilename>
+
+        <imagePath>20131112103024250.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131112103024250.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>256</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>紫苏</name>
+
+        <imageFilename>20130104165206447.jpg</imageFilename>
+
+        <imagePath>20130104165206447.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165206447.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>475</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>鱼腥草</name>
+
+        <imageFilename>20130328143844630.jpg</imageFilename>
+
+        <imagePath>20130328143844630.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328143844630.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>476</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>蕨菜</name>
+
+        <imageFilename>20130328145150536.jpg</imageFilename>
+
+        <imagePath>20130328145150536.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328145150536.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>529</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>枸杞叶</name>
+
+        <imageFilename>20131014161019364.jpg</imageFilename>
+
+        <imagePath>20131014161019364.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131014161019364.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>539</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>南瓜藤</name>
+
+        <imageFilename>20131018092539379.jpg</imageFilename>
+
+        <imagePath>20131018092539379.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131018092539379.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>549</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>红薯叶</name>
+
+        <imageFilename>20131024201523537.jpg</imageFilename>
+
+        <imagePath>20131024201523537.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131024201523537.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>641</materialId>
+
+        <materialTypeId>21</materialTypeId>
+
+        <name>薄荷叶</name>
+
+        <imageFilename>20131220112542725.jpg</imageFilename>
+
+        <imagePath>20131220112542725.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220112542725.jpg</imagePathName>
+      </tblMaterial>
+        
+        <tblMaterial>
+            <materialId>485</materialId>
+            
+            <materialTypeId>21</materialTypeId>
+            
+            <name>藠头</name>
+            
+            <imageFilename>20130523164543289.jpg</imageFilename>
+            
+            <imagePath>20130523164543289.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20130523164543289.jpg</imagePathName>
+        </tblMaterial>
+
+        <tblMaterial>
+            <materialId>268</materialId>
+            
+            <materialTypeId>21</materialTypeId>
+            
+            <name>芦笋</name>
+            
+            <imageFilename>20130104170115536.jpg</imageFilename>
+            
+            <imagePath>20130104170115536.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20130104170115536.jpg</imagePathName>
+        </tblMaterial>
+        
+        
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>23</materialTypeId>
+
+      <name>蔬菜-块根类</name>
+
+      <tblMaterial>
+        <materialId>261</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>白萝卜</name>
+
+        <imageFilename>20130104165859695.jpg</imageFilename>
+
+        <imagePath>20130104165859695.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165859695.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>512</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>心里美萝卜</name>
+
+        <imageFilename>20130909122652401.jpg</imageFilename>
+
+        <imagePath>20130909122652401.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130909122652401.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>262</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>胡萝卜</name>
+
+        <imageFilename>20130104165913199.jpg</imageFilename>
+
+        <imagePath>20130104165913199.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165913199.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>263</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>红薯</name>
+
+        <imageFilename>20130104165927763.jpg</imageFilename>
+
+        <imagePath>20130104165927763.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165927763.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>264</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>紫薯</name>
+
+        <imageFilename>20130104165945266.jpg</imageFilename>
+
+        <imagePath>20130104165945266.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104165945266.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>267</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>莲藕</name>
+
+        <imageFilename>20130104170056358.jpg</imageFilename>
+
+        <imagePath>20130104170056358.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170056358.jpg</imagePathName>
+      </tblMaterial>
+
+     
+
+      <tblMaterial>
+        <materialId>269</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>马蹄</name>
+
+        <imageFilename>20130104170134603.jpg</imageFilename>
+
+        <imagePath>20130104170134603.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170134603.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>270</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>山药</name>
+
+        <imageFilename>20130104170149788.jpg</imageFilename>
+
+        <imagePath>20130104170149788.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170149788.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>271</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>土豆</name>
+
+        <imageFilename>20130104170202411.jpg</imageFilename>
+
+        <imagePath>20130104170202411.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170202411.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>273</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>洋葱</name>
+
+        <imageFilename>20130104170249355.jpg</imageFilename>
+
+        <imagePath>20130104170249355.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170249355.jpg</imagePathName>
+      </tblMaterial>
+
+     
+      <tblMaterial>
+        <materialId>276</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>芋头</name>
+
+        <imageFilename>20130104170339957.jpg</imageFilename>
+
+        <imagePath>20130104170339957.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170339957.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>277</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>竹笋</name>
+
+        <imageFilename>20130104170358188.jpg</imageFilename>
+
+        <imagePath>20130104170358188.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170358188.jpg</imagePathName>
+      </tblMaterial>
+
+     
+      <tblMaterial>
+        <materialId>279</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>蒜头</name>
+
+        <imageFilename>20130104170759931.jpg</imageFilename>
+
+        <imagePath>20130104170759931.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170759931.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>280</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>生姜</name>
+
+        <imageFilename>20130104170822458.jpg</imageFilename>
+
+        <imagePath>20130104170822458.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104170822458.jpg</imagePathName>
+      </tblMaterial>
+
+
+      <tblMaterial>
+        <materialId>469</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>凉薯</name>
+
+        <imageFilename>2013032217494209.jpg</imageFilename>
+
+        <imagePath>2013032217494209.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013032217494209.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>471</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>鲜百合</name>
+
+        <imageFilename>20130328114750873.jpg</imageFilename>
+
+        <imagePath>20130328114750873.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328114750873.jpg</imagePathName>
+      </tblMaterial>
+
+     
+      <tblMaterial>
+        <materialId>521</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>牛蒡</name>
+
+        <imageFilename>20131011161719258.jpg</imageFilename>
+
+        <imagePath>20131011161719258.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131011161719258.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>523</materialId>
+
+        <materialTypeId>23</materialTypeId>
+
+        <name>葛根</name>
+
+        <imageFilename>20131012154943665.jpg</imageFilename>
+
+        <imagePath>20131012154943665.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131012154943665.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>24</materialTypeId>
+
+      <name>蔬菜-瓜果类</name>
+
+      <tblMaterial>
+        <materialId>281</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>冬瓜</name>
+
+        <imageFilename>20130104171203916.jpg</imageFilename>
+
+        <imagePath>20130104171203916.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171203916.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>282</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>黄瓜</name>
+
+        <imageFilename>2013010417121768.jpg</imageFilename>
+
+        <imagePath>2013010417121768.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010417121768.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>283</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>苦瓜</name>
+
+        <imageFilename>20130104171231976.jpg</imageFilename>
+
+        <imagePath>20130104171231976.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171231976.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>284</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>青椒</name>
+
+        <imageFilename>20130104171247401.jpg</imageFilename>
+
+        <imagePath>20130104171247401.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171247401.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>285</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>红椒</name>
+
+        <imageFilename>2013010417130384.jpg</imageFilename>
+
+        <imagePath>2013010417130384.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010417130384.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>286</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>彩椒</name>
+
+        <imageFilename>20130104171317936.jpg</imageFilename>
+
+        <imagePath>20130104171317936.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171317936.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>287</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>南瓜</name>
+
+        <imageFilename>20130104171335317.jpg</imageFilename>
+
+        <imagePath>20130104171335317.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171335317.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>288</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>金瓜</name>
+
+        <imageFilename>20130104171349487.jpg</imageFilename>
+
+        <imagePath>20130104171349487.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171349487.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>289</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>茄子</name>
+
+        <imageFilename>20130104171403914.jpg</imageFilename>
+
+        <imagePath>20130104171403914.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171403914.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>290</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>丝瓜</name>
+
+        <imageFilename>20130104171418203.jpg</imageFilename>
+
+        <imagePath>20130104171418203.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171418203.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>291</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>西红柿</name>
+
+        <imageFilename>20130104171433107.jpg</imageFilename>
+
+        <imagePath>20130104171433107.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171433107.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>292</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>西葫芦</name>
+
+        <imageFilename>20130104171444455.jpg</imageFilename>
+
+        <imagePath>20130104171444455.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171444455.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>294</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>佛手瓜</name>
+
+        <imageFilename>20130104171512164.jpg</imageFilename>
+
+        <imagePath>20130104171512164.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104171512164.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>492</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>葫芦瓜</name>
+
+        <imageFilename>20130713135205208.jpg</imageFilename>
+
+        <imagePath>20130713135205208.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130713135205208.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>500</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>节瓜</name>
+
+        <imageFilename>20130816145106161.jpg</imageFilename>
+
+        <imagePath>20130816145106161.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130816145106161.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>554</materialId>
+
+        <materialTypeId>24</materialTypeId>
+
+        <name>秋葵</name>
+
+        <imageFilename>20131025100937458.jpg</imageFilename>
+
+        <imagePath>20131025100937458.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131025100937458.jpg</imagePathName>
+      </tblMaterial>
+        
+        <tblMaterial>
+            <materialId>274</materialId>
+            
+            <materialTypeId>24</materialTypeId>
+            
+            <name>玉米</name>
+            
+            <imageFilename>20130104170301657.jpg</imageFilename>
+            
+            <imagePath>20130104170301657.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20130104170301657.jpg</imagePathName>
+        </tblMaterial>
+        
+        <tblMaterial>
+            <materialId>275</materialId>
+            
+            <materialTypeId>24</materialTypeId>
+            
+            <name>玉米笋</name>
+            
+            <imageFilename>2013010417032699.jpg</imageFilename>
+            
+            <imagePath>2013010417032699.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/2013010417032699.jpg</imagePathName>
+        </tblMaterial>
+
+        
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>25</materialTypeId>
+
+      <name>蔬菜-豆类</name>
+
+      <tblMaterial>
+        <materialId>295</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豆角</name>
+
+        <imageFilename>20130104172225929.jpg</imageFilename>
+
+        <imagePath>20130104172225929.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172225929.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>296</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>四季豆</name>
+
+        <imageFilename>20130104172248482.jpg</imageFilename>
+
+        <imagePath>20130104172248482.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172248482.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>297</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>荷兰豆</name>
+
+        <imageFilename>20130104172425526.jpg</imageFilename>
+
+        <imagePath>20130104172425526.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172425526.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>298</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豌豆</name>
+
+        <imageFilename>20130104172438151.jpg</imageFilename>
+
+        <imagePath>20130104172438151.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172438151.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>299</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豌豆苗</name>
+
+        <imageFilename>20130104172506720.jpg</imageFilename>
+
+        <imagePath>20130104172506720.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172506720.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>300</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豆苗</name>
+
+        <imageFilename>20130104172528571.jpg</imageFilename>
+
+        <imagePath>20130104172528571.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172528571.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>301</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>扁豆</name>
+
+        <imageFilename>20130104172543871.jpg</imageFilename>
+
+        <imagePath>20130104172543871.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172543871.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>302</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>毛豆</name>
+
+        <imageFilename>20130104172600354.jpg</imageFilename>
+
+        <imagePath>20130104172600354.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172600354.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>305</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>蚕豆</name>
+
+        <imageFilename>2013010417264194.jpg</imageFilename>
+
+        <imagePath>2013010417264194.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010417264194.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>646</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>蜜豆</name>
+
+        <imageFilename>20131220121333194.jpg</imageFilename>
+
+        <imagePath>20131220121333194.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220121333194.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>306</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豆芽</name>
+
+        <imageFilename>20130104172655386.jpg</imageFilename>
+
+        <imagePath>20130104172655386.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172655386.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>310</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豆腐</name>
+
+        <imageFilename>20130104172833184.jpg</imageFilename>
+
+        <imagePath>20130104172833184.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172833184.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>311</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豆花</name>
+
+        <imageFilename>2013010417284644.jpg</imageFilename>
+
+        <imagePath>2013010417284644.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010417284644.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>312</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豆腐干</name>
+
+        <imageFilename>20130104172858684.jpg</imageFilename>
+
+        <imagePath>20130104172858684.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172858684.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>313</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>豆皮</name>
+
+        <imageFilename>20130104172911570.jpg</imageFilename>
+
+        <imagePath>20130104172911570.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172911570.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>314</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>腐竹</name>
+
+        <imageFilename>20130104172927653.jpg</imageFilename>
+
+        <imagePath>20130104172927653.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172927653.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>315</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>日本豆腐</name>
+
+        <imageFilename>20130104172939454.jpg</imageFilename>
+
+        <imagePath>20130104172939454.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172939454.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>316</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>油豆腐</name>
+
+        <imageFilename>20130104172951948.jpg</imageFilename>
+
+        <imagePath>20130104172951948.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172951948.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>317</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>魔芋豆腐</name>
+
+        <imageFilename>20130104173004369.jpg</imageFilename>
+
+        <imagePath>20130104173004369.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104173004369.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>487</materialId>
+
+        <materialTypeId>25</materialTypeId>
+
+        <name>素鸡</name>
+
+        <imageFilename>20130625190736898.jpg</imageFilename>
+
+        <imagePath>20130625190736898.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130625190736898.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>26</materialTypeId>
+
+      <name>菌菇类</name>
+
+      <tblMaterial>
+        <materialId>318</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>黑木耳</name>
+
+        <imageFilename>20130104181440715.jpg</imageFilename>
+
+        <imagePath>20130104181440715.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181440715.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>319</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>银耳</name>
+
+        <imageFilename>20130104181454842.jpg</imageFilename>
+
+        <imagePath>20130104181454842.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181454842.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>320</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>竹荪</name>
+
+        <imageFilename>20130104181519630.jpg</imageFilename>
+
+        <imagePath>20130104181519630.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181519630.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>321</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>香菇</name>
+
+        <imageFilename>20130104181534171.jpg</imageFilename>
+
+        <imagePath>20130104181534171.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181534171.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>322</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>平菇</name>
+
+        <imageFilename>20130104181547220.jpg</imageFilename>
+
+        <imagePath>20130104181547220.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181547220.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>323</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>金针菇</name>
+
+        <imageFilename>20130104181605385.jpg</imageFilename>
+
+        <imagePath>20130104181605385.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181605385.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>324</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>滑子菇</name>
+
+        <imageFilename>20130104181628841.jpg</imageFilename>
+
+        <imagePath>20130104181628841.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181628841.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>325</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>口蘑</name>
+
+        <imageFilename>20130104181649233.jpg</imageFilename>
+
+        <imagePath>20130104181649233.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181649233.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>326</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>草菇</name>
+
+        <imageFilename>20130104181710552.jpg</imageFilename>
+
+        <imagePath>20130104181710552.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181710552.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>327</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>茶树菇</name>
+
+        <imageFilename>20130104181724212.jpg</imageFilename>
+
+        <imagePath>20130104181724212.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181724212.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>328</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>鸡腿菇</name>
+
+        <imageFilename>20130104181740476.jpg</imageFilename>
+
+        <imagePath>20130104181740476.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181740476.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>329</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>杏鲍菇</name>
+
+        <imageFilename>20130104181802206.jpg</imageFilename>
+
+        <imagePath>20130104181802206.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181802206.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>330</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>白玉菇</name>
+
+        <imageFilename>20130104181817365.jpg</imageFilename>
+
+        <imagePath>20130104181817365.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181817365.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>331</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>蟹味菇</name>
+
+        <imageFilename>20130104181831947.jpg</imageFilename>
+
+        <imagePath>20130104181831947.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104181831947.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>516</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>秀珍菇</name>
+
+        <imageFilename>20130925155704168.jpg</imageFilename>
+
+        <imagePath>20130925155704168.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130925155704168.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>560</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>猴头菇</name>
+
+        <imageFilename>2013111617412416.jpg</imageFilename>
+
+        <imagePath>2013111617412416.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013111617412416.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>612</materialId>
+
+        <materialTypeId>26</materialTypeId>
+
+        <name>白灵菇</name>
+
+        <imageFilename>20131218154029272.jpg</imageFilename>
+
+        <imagePath>20131218154029272.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131218154029272.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>27</materialTypeId>
+
+      <name>畜肉类</name>
+
+      <tblMaterial>
+        <materialId>332</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪肉</name>
+
+        <imageFilename>20130104182900966.jpg</imageFilename>
+
+        <imagePath>20130104182900966.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104182900966.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>333</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>腊肉</name>
+
+        <imageFilename>20130104182913632.jpg</imageFilename>
+
+        <imagePath>20130104182913632.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104182913632.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>544</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>培根</name>
+
+        <imageFilename>20131022113215796.jpg</imageFilename>
+
+        <imagePath>20131022113215796.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131022113215796.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>334</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>金华火腿</name>
+
+        <imageFilename>20130104182929796.jpg</imageFilename>
+
+        <imagePath>20130104182929796.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104182929796.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>335</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪肝</name>
+
+        <imageFilename>20130104182942961.jpg</imageFilename>
+
+        <imagePath>20130104182942961.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104182942961.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>336</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪骨</name>
+
+        <imageFilename>20130104182958625.jpg</imageFilename>
+
+        <imagePath>20130104182958625.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104182958625.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>338</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪蹄</name>
+
+        <imageFilename>20130104183031306.jpg</imageFilename>
+
+        <imagePath>20130104183031306.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183031306.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>339</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪尾</name>
+
+        <imageFilename>20130104183046421.jpg</imageFilename>
+
+        <imagePath>20130104183046421.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183046421.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>340</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪腰</name>
+
+        <imageFilename>20130104183059472.jpg</imageFilename>
+
+        <imagePath>20130104183059472.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183059472.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>341</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪耳</name>
+
+        <imageFilename>20130104183114626.jpg</imageFilename>
+
+        <imagePath>20130104183114626.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183114626.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>342</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪血</name>
+
+        <imageFilename>20130104183132442.jpg</imageFilename>
+
+        <imagePath>20130104183132442.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183132442.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>343</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪肠</name>
+
+        <imageFilename>20130104183148899.jpg</imageFilename>
+
+        <imagePath>20130104183148899.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183148899.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>344</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>腊肠</name>
+
+        <imageFilename>2013010418320388.jpg</imageFilename>
+
+        <imagePath>2013010418320388.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010418320388.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>345</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪肚</name>
+
+        <imageFilename>20130104183217515.jpg</imageFilename>
+
+        <imagePath>20130104183217515.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183217515.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>346</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪心</name>
+
+        <imageFilename>20130104183230599.jpg</imageFilename>
+
+        <imagePath>20130104183230599.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183230599.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>347</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪肺</name>
+
+        <imageFilename>20130104183245140.jpg</imageFilename>
+
+        <imagePath>20130104183245140.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183245140.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>348</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>猪舌</name>
+
+        <imageFilename>20130104183300364.jpg</imageFilename>
+
+        <imagePath>20130104183300364.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183300364.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>349</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>牛肉</name>
+
+        <imageFilename>20130104183313698.jpg</imageFilename>
+
+        <imagePath>20130104183313698.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183313698.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>350</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>牛腩</name>
+
+        <imageFilename>20130104183330221.jpg</imageFilename>
+
+        <imagePath>20130104183330221.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183330221.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>351</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>牛肚</name>
+
+        <imageFilename>20130104183344592.jpg</imageFilename>
+
+        <imagePath>20130104183344592.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183344592.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>352</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>牛排</name>
+
+        <imageFilename>20130104183401322.jpg</imageFilename>
+
+        <imagePath>20130104183401322.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183401322.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>595</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>牛舌</name>
+
+        <imageFilename>2013112817350364.jpg</imageFilename>
+
+        <imagePath>2013112817350364.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013112817350364.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>354</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>牛蹄筋</name>
+
+        <imageFilename>20130104183428510.jpg</imageFilename>
+
+        <imagePath>20130104183428510.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183428510.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>355</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>羊肉</name>
+
+        <imageFilename>20130104183441149.jpg</imageFilename>
+
+        <imagePath>20130104183441149.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183441149.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>356</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>羊排</name>
+
+        <imageFilename>20130104183453294.jpg</imageFilename>
+
+        <imagePath>20130104183453294.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183453294.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>585</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>鹿肉</name>
+
+        <imageFilename>20131128170326923.jpg</imageFilename>
+
+        <imagePath>20131128170326923.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128170326923.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>357</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>狗肉</name>
+
+        <imageFilename>20130104183504166.jpg</imageFilename>
+
+        <imagePath>20130104183504166.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183504166.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>359</materialId>
+
+        <materialTypeId>27</materialTypeId>
+
+        <name>兔肉</name>
+
+        <imageFilename>20130104183536507.jpg</imageFilename>
+
+        <imagePath>20130104183536507.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104183536507.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>28</materialTypeId>
+
+      <name>禽肉类</name>
+
+      <tblMaterial>
+        <materialId>363</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸡肉</name>
+
+        <imageFilename>20130104184305803.jpg</imageFilename>
+
+        <imagePath>20130104184305803.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184305803.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>364</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸡爪</name>
+
+        <imageFilename>20130104184317494.jpg</imageFilename>
+
+        <imagePath>20130104184317494.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184317494.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>365</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸡翅</name>
+
+        <imageFilename>20130104184330402.jpg</imageFilename>
+
+        <imagePath>20130104184330402.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184330402.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>366</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸡腿</name>
+
+        <imageFilename>20130104184343977.jpg</imageFilename>
+
+        <imagePath>20130104184343977.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184343977.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>367</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸡杂</name>
+
+        <imageFilename>2013010418440069.jpg</imageFilename>
+
+        <imagePath>2013010418440069.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010418440069.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>368</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>乌鸡</name>
+
+        <imageFilename>20130104184413301.jpg</imageFilename>
+
+        <imagePath>20130104184413301.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184413301.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>370</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸭肉</name>
+
+        <imageFilename>20130104184429215.jpg</imageFilename>
+
+        <imagePath>20130104184429215.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184429215.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>371</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸭掌</name>
+
+        <imageFilename>20130104184441998.jpg</imageFilename>
+
+        <imagePath>20130104184441998.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184441998.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>372</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸭杂</name>
+
+        <imageFilename>20130104184458467.jpg</imageFilename>
+
+        <imagePath>20130104184458467.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184458467.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>373</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鹅肉</name>
+
+        <imageFilename>20130104184514203.jpg</imageFilename>
+
+        <imagePath>20130104184514203.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184514203.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>374</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鹅杂</name>
+
+        <imageFilename>20130104184536109.jpg</imageFilename>
+
+        <imagePath>20130104184536109.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184536109.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>375</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鸽肉</name>
+
+        <imageFilename>20130104184550983.jpg</imageFilename>
+
+        <imagePath>20130104184550983.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184550983.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>376</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鹌鹑</name>
+
+        <imageFilename>20130104184604187.jpg</imageFilename>
+
+        <imagePath>20130104184604187.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184604187.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>552</materialId>
+
+        <materialTypeId>28</materialTypeId>
+
+        <name>鹧鸪</name>
+
+        <imageFilename>20131024201646896.jpg</imageFilename>
+
+        <imagePath>20131024201646896.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131024201646896.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>29</materialTypeId>
+
+      <name>蛋类</name>
+
+      <tblMaterial>
+        <materialId>377</materialId>
+
+        <materialTypeId>29</materialTypeId>
+
+        <name>鸡蛋</name>
+
+        <imageFilename>20130104184733386.jpg</imageFilename>
+
+        <imagePath>20130104184733386.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184733386.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>378</materialId>
+
+        <materialTypeId>29</materialTypeId>
+
+        <name>鸭蛋</name>
+
+        <imageFilename>20130104184750548.jpg</imageFilename>
+
+        <imagePath>20130104184750548.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184750548.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>379</materialId>
+
+        <materialTypeId>29</materialTypeId>
+
+        <name>皮蛋</name>
+
+        <imageFilename>20130104184804679.jpg</imageFilename>
+
+        <imagePath>20130104184804679.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184804679.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>380</materialId>
+
+        <materialTypeId>29</materialTypeId>
+
+        <name>鸽蛋</name>
+
+        <imageFilename>20130104184818219.jpg</imageFilename>
+
+        <imagePath>20130104184818219.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184818219.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>381</materialId>
+
+        <materialTypeId>29</materialTypeId>
+
+        <name>鹌鹑蛋</name>
+
+        <imageFilename>20130104184831941.jpg</imageFilename>
+
+        <imagePath>20130104184831941.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104184831941.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>467</materialId>
+
+        <materialTypeId>29</materialTypeId>
+
+        <name>鹅蛋</name>
+
+        <imageFilename>20130110155720313.jpg</imageFilename>
+
+        <imagePath>20130110155720313.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130110155720313.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>468</materialId>
+
+        <materialTypeId>29</materialTypeId>
+
+        <name>咸蛋</name>
+
+        <imageFilename>20130110155740439.jpg</imageFilename>
+
+        <imagePath>20130110155740439.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130110155740439.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>30</materialTypeId>
+
+      <name>水产类</name>
+
+      <tblMaterial>
+        <materialId>382</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鲤鱼</name>
+
+        <imageFilename>20130104190025478.jpg</imageFilename>
+
+        <imagePath>20130104190025478.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190025478.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>383</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鲫鱼</name>
+
+        <imageFilename>20130104190041969.jpg</imageFilename>
+
+        <imagePath>20130104190041969.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190041969.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>384</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鲈鱼</name>
+
+        <imageFilename>20130104190054530.jpg</imageFilename>
+
+        <imagePath>20130104190054530.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190054530.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>385</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>草鱼</name>
+
+        <imageFilename>20130104190109770.jpg</imageFilename>
+
+        <imagePath>20130104190109770.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190109770.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>386</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>福寿鱼</name>
+
+        <imageFilename>2013010419012473.jpg</imageFilename>
+
+        <imagePath>2013010419012473.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010419012473.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>387</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>武昌鱼</name>
+
+        <imageFilename>20130104190150316.jpg</imageFilename>
+
+        <imagePath>20130104190150316.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190150316.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>388</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>生鱼</name>
+
+        <imageFilename>20130104190214263.jpg</imageFilename>
+
+        <imagePath>20130104190214263.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190214263.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>389</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鲢鱼</name>
+
+        <imageFilename>20130104190246649.jpg</imageFilename>
+
+        <imagePath>20130104190246649.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190246649.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>390</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鲇鱼</name>
+
+        <imageFilename>20130104190302723.jpg</imageFilename>
+
+        <imagePath>20130104190302723.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190302723.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>391</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鲳鱼</name>
+
+        <imageFilename>20130104190320576.jpg</imageFilename>
+
+        <imagePath>20130104190320576.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190320576.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>392</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鳜鱼</name>
+
+        <imageFilename>20130104190412906.jpg</imageFilename>
+
+        <imagePath>20130104190412906.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190412906.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>393</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>银鱼</name>
+
+        <imageFilename>2013010419043507.jpg</imageFilename>
+
+        <imagePath>2013010419043507.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010419043507.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>394</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鳕鱼</name>
+
+        <imageFilename>20130104190450167.jpg</imageFilename>
+
+        <imagePath>20130104190450167.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190450167.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>395</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鳝鱼</name>
+
+        <imageFilename>20130104190526582.jpg</imageFilename>
+
+        <imagePath>20130104190526582.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190526582.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>396</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>甲鱼</name>
+
+        <imageFilename>20130104190542615.jpg</imageFilename>
+
+        <imagePath>20130104190542615.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190542615.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>397</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>乌龟</name>
+
+        <imageFilename>20130104190556663.jpg</imageFilename>
+
+        <imagePath>20130104190556663.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190556663.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>557</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>剥皮鱼</name>
+
+        <imageFilename>20131116163431578.jpg</imageFilename>
+
+        <imagePath>20131116163431578.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131116163431578.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>398</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>带鱼</name>
+
+        <imageFilename>20130104190610938.jpg</imageFilename>
+
+        <imagePath>20130104190610938.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190610938.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>399</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>黄鱼</name>
+
+        <imageFilename>20130104190628458.jpg</imageFilename>
+
+        <imagePath>20130104190628458.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190628458.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>548</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>多宝鱼</name>
+
+        <imageFilename>20131024201504849.jpg</imageFilename>
+
+        <imagePath>20131024201504849.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131024201504849.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>520</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>红衫鱼</name>
+
+        <imageFilename>20131011154814837.jpg</imageFilename>
+
+        <imagePath>20131011154814837.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131011154814837.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>558</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鹦鹉鱼</name>
+
+        <imageFilename>20131116163456922.jpg</imageFilename>
+
+        <imagePath>20131116163456922.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131116163456922.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>502</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>塘鲺</name>
+
+        <imageFilename>20130905101644845.jpg</imageFilename>
+
+        <imagePath>20130905101644845.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130905101644845.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>472</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>刁子鱼</name>
+
+        <imageFilename>20130328114845201.jpg</imageFilename>
+
+        <imagePath>20130328114845201.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328114845201.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>474</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>黄骨鱼</name>
+
+        <imageFilename>20130328142436333.jpg</imageFilename>
+
+        <imagePath>20130328142436333.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328142436333.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>542</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>黄脚立鱼</name>
+
+        <imageFilename>20131018095836457.jpg</imageFilename>
+
+        <imagePath>20131018095836457.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131018095836457.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>543</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鳙鱼</name>
+
+        <imageFilename>2013102211295331.jpg</imageFilename>
+
+        <imagePath>2013102211295331.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013102211295331.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>403</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>秋刀鱼</name>
+
+        <imageFilename>20130104190731279.jpg</imageFilename>
+
+        <imagePath>20130104190731279.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190731279.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>404</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>三文鱼</name>
+
+        <imageFilename>20130104190741481.jpg</imageFilename>
+
+        <imagePath>20130104190741481.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190741481.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>400</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鳗鱼</name>
+
+        <imageFilename>20130104190645921.jpg</imageFilename>
+
+        <imagePath>20130104190645921.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190645921.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>401</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鱿鱼</name>
+
+        <imageFilename>20130104190706714.jpg</imageFilename>
+
+        <imagePath>20130104190706714.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190706714.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>402</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>墨鱼</name>
+
+        <imageFilename>20130104190718657.jpg</imageFilename>
+
+        <imagePath>20130104190718657.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190718657.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>503</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>八爪鱼</name>
+
+        <imageFilename>20130905141113267.jpg</imageFilename>
+
+        <imagePath>20130905141113267.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130905141113267.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>483</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>腊鱼</name>
+
+        <imageFilename>20130328151127489.jpg</imageFilename>
+
+        <imagePath>20130328151127489.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328151127489.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>491</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>小鱼干</name>
+
+        <imageFilename>20130713135147146.jpg</imageFilename>
+
+        <imagePath>20130713135147146.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130713135147146.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>499</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>咸鱼</name>
+
+        <imageFilename>20130815093346427.jpg</imageFilename>
+
+        <imagePath>20130713135147146.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130815093346427.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>405</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>泥鳅</name>
+
+        <imageFilename>20130104190754374.jpg</imageFilename>
+
+        <imagePath>20130104190754374.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190754374.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>406</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>牛蛙</name>
+
+        <imageFilename>20130104190808389.jpg</imageFilename>
+
+        <imagePath>20130104190808389.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190808389.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>407</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>虾</name>
+
+        <imageFilename>20130104190821202.jpg</imageFilename>
+
+        <imagePath>20130104190821202.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104190821202.jpg</imagePathName>
+      </tblMaterial>
+
+
+      <tblMaterial>
+        <materialId>408</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>螃蟹</name>
+
+        <imageFilename>20130104193947363.jpg</imageFilename>
+
+        <imagePath>20130104193947363.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104193947363.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>409</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>蟹柳</name>
+
+        <imageFilename>20130104193929938.jpg</imageFilename>
+
+        <imagePath>20130104193929938.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104193929938.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>410</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>干贝</name>
+
+        <imageFilename>20130104194007494.jpg</imageFilename>
+
+        <imagePath>20130104194007494.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194007494.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>411</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>生蚝</name>
+
+        <imageFilename>2013010419402424.jpg</imageFilename>
+
+        <imagePath>2013010419402424.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010419402424.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>412</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>蛏子</name>
+
+        <imageFilename>20130104194216410.jpg</imageFilename>
+
+        <imagePath>20130104194216410.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194216410.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>413</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>扇贝</name>
+
+        <imageFilename>20130104194233486.jpg</imageFilename>
+
+        <imagePath>20130104194233486.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194233486.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>414</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>蛤蜊</name>
+
+        <imageFilename>20130104194252738.jpg</imageFilename>
+
+        <imagePath>20130104194252738.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194252738.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>550</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>花甲</name>
+
+        <imageFilename>20131024201541599.jpg</imageFilename>
+
+        <imagePath>20131024201541599.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131024201541599.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>587</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>淡菜</name>
+
+        <imageFilename>20131128171521783.jpg</imageFilename>
+
+        <imagePath>20131128171521783.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128171521783.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>415</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>田螺</name>
+
+        <imageFilename>20130104194309495.jpg</imageFilename>
+
+        <imagePath>20130104194309495.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194309495.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>416</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>海参</name>
+
+        <imageFilename>20130104194327480.jpg</imageFilename>
+
+        <imagePath>20130104194327480.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194327480.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>417</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>鲍鱼</name>
+
+        <imageFilename>20130104194340973.jpg</imageFilename>
+
+        <imagePath>20130104194340973.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194340973.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>418</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>海带</name>
+
+        <imageFilename>20130104194401779.jpg</imageFilename>
+
+        <imagePath>20130104194401779.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194401779.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>419</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>海蜇</name>
+
+        <imageFilename>20130104194434948.jpg</imageFilename>
+
+        <imagePath>20130104194434948.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194434948.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>420</materialId>
+
+        <materialTypeId>30</materialTypeId>
+
+        <name>紫菜</name>
+
+        <imageFilename>20130104194458440.jpg</imageFilename>
+
+        <imagePath>20130104194458440.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104194458440.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>31</materialTypeId>
+
+      <name>水果类</name>
+
+      <tblMaterial>
+        <materialId>421</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>苹果</name>
+
+        <imageFilename>20130104195032740.jpg</imageFilename>
+
+        <imagePath>20130104195032740.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195032740.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>422</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>香蕉</name>
+
+        <imageFilename>20130104195045807.jpg</imageFilename>
+
+        <imagePath>20130104195045807.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195045807.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>423</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>木瓜</name>
+
+        <imageFilename>20130104195057447.jpg</imageFilename>
+
+        <imagePath>20130104195057447.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195057447.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>424</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>橘子</name>
+
+        <imageFilename>20130104195115852.jpg</imageFilename>
+
+        <imagePath>20130104195115852.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195115852.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>425</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>火龙果</name>
+
+        <imageFilename>20130104195139888.jpg</imageFilename>
+
+        <imagePath>20130104195139888.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195139888.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>426</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>梨</name>
+
+        <imageFilename>20130104195151969.jpg</imageFilename>
+
+        <imagePath>20130104195151969.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195151969.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>427</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>山楂</name>
+
+        <imageFilename>20130104195211929.jpg</imageFilename>
+
+        <imagePath>20130104195211929.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195211929.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>428</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>菠萝</name>
+
+        <imageFilename>2013010419522629.jpg</imageFilename>
+
+        <imagePath>2013010419522629.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010419522629.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>429</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>柠檬</name>
+
+        <imageFilename>20130104195240678.jpg</imageFilename>
+
+        <imagePath>20130104195240678.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195240678.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>430</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>西瓜</name>
+
+        <imageFilename>2013010419525225.jpg</imageFilename>
+
+        <imagePath>2013010419525225.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010419525225.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>431</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>橙子</name>
+
+        <imageFilename>20130104195308997.jpg</imageFilename>
+
+        <imagePath>20130104195308997.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195308997.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>432</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>柚子</name>
+
+        <imageFilename>20130104195328155.jpg</imageFilename>
+
+        <imagePath>20130104195328155.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195328155.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>433</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>椰子</name>
+
+        <imageFilename>20130104195339548.jpg</imageFilename>
+
+        <imagePath>20130104195339548.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195339548.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>434</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>草莓</name>
+
+        <imageFilename>20130104195350499.jpg</imageFilename>
+
+        <imagePath>20130104195350499.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195350499.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>436</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>樱桃</name>
+
+        <imageFilename>20130104195431369.jpg</imageFilename>
+
+        <imagePath>20130104195431369.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195431369.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>437</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>提子</name>
+
+        <imageFilename>20130104195445476.jpg</imageFilename>
+
+        <imagePath>20130104195445476.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195445476.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>438</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>桃子</name>
+
+        <imageFilename>20130104195457948.jpg</imageFilename>
+
+        <imagePath>20130104195457948.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195457948.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>439</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>哈密瓜</name>
+
+        <imageFilename>20130104195510517.jpg</imageFilename>
+
+        <imagePath>20130104195510517.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195510517.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>440</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>榴莲</name>
+
+        <imageFilename>20130104195522865.jpg</imageFilename>
+
+        <imagePath>20130104195522865.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195522865.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>441</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>荔枝</name>
+
+        <imageFilename>20130104195536889.jpg</imageFilename>
+
+        <imagePath>20130104195536889.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195536889.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>442</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>柿子</name>
+
+        <imageFilename>20130104195549641.jpg</imageFilename>
+
+        <imagePath>20130104195549641.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195549641.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>443</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>猕猴桃</name>
+
+        <imageFilename>20130104195602530.jpg</imageFilename>
+
+        <imagePath>20130104195602530.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104195602530.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>482</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>芒果</name>
+
+        <imageFilename>20130328151057802.jpg</imageFilename>
+
+        <imagePath>20130328151057802.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328151057802.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>488</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>杨桃</name>
+
+        <imageFilename>20130712094959820.jpg</imageFilename>
+
+        <imagePath>20130712094959820.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130712094959820.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>493</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>番石榴</name>
+
+        <imageFilename>20130727100248943.jpg</imageFilename>
+
+        <imagePath>20130727100248943.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130727100248943.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>496</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>甘蔗</name>
+
+        <imageFilename>20130813151102349.jpg</imageFilename>
+
+        <imagePath>20130813151102349.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130813151102349.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>498</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>雪莲果</name>
+
+        <imageFilename>20130814110617286.jpg</imageFilename>
+
+        <imagePath>20130814110617286.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130814110617286.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>590</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>石榴</name>
+
+        <imageFilename>20131128172800345.jpg</imageFilename>
+
+        <imagePath>20131128172800345.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128172800345.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>591</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>葡萄柚</name>
+
+        <imageFilename>2013112817290148.jpg</imageFilename>
+
+        <imagePath>2013112817290148.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013112817290148.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>593</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>枇杷</name>
+
+        <imageFilename>20131128173209189.jpg</imageFilename>
+
+        <imagePath>20131128173209189.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128173209189.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>596</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>黄桃</name>
+
+        <imageFilename>20131203190558979.jpg</imageFilename>
+
+        <imagePath>20131203190558979.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131203190558979.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>597</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>葡萄</name>
+
+        <imageFilename>20131203190627120.jpg</imageFilename>
+
+        <imagePath>20131203190627120.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131203190627120.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>599</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>人参果</name>
+
+        <imageFilename>20131203190657416.jpg</imageFilename>
+
+        <imagePath>20131203190657416.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131203190657416.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>602</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>百香果</name>
+
+        <imageFilename>2013120418325610.jpg</imageFilename>
+
+        <imagePath>2013120418325610.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013120418325610.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>611</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>菠萝蜜</name>
+
+        <imageFilename>20131217104414537.jpg</imageFilename>
+
+        <imagePath>20131217104414537.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131217104414537.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>642</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>李子</name>
+
+        <imageFilename>20131220112752537.jpg</imageFilename>
+
+        <imagePath>20131220112752537.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220112752537.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>643</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>青梅</name>
+
+        <imageFilename>20131220112825272.jpg</imageFilename>
+
+        <imagePath>20131220112825272.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220112825272.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>647</materialId>
+
+        <materialTypeId>31</materialTypeId>
+
+        <name>蔓越莓</name>
+
+        <imageFilename>20131220131517366.jpg</imageFilename>
+
+        <imagePath>20131220131517366.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220131517366.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>32</materialTypeId>
+
+      <name>干果类</name>
+
+      <tblMaterial>
+        <materialId>444</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>莲子</name>
+
+        <imageFilename>20130104200004418.jpg</imageFilename>
+
+        <imagePath>20130104200004418.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200004418.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>445</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>板栗</name>
+
+        <imageFilename>20130104200016658.jpg</imageFilename>
+
+        <imagePath>20130104200016658.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200016658.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>447</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>红枣</name>
+
+        <imageFilename>2013010420005527.jpg</imageFilename>
+
+        <imagePath>2013010420005527.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010420005527.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>448</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>腰果</name>
+
+        <imageFilename>20130104200108577.jpg</imageFilename>
+
+        <imagePath>20130104200108577.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200108577.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>449</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>松仁</name>
+
+        <imageFilename>20130104200145153.jpg</imageFilename>
+
+        <imagePath>20130104200145153.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200145153.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>450</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>白果</name>
+
+        <imageFilename>20130104200205693.jpg</imageFilename>
+
+        <imagePath>20130104200205693.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200205693.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>451</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>无花果</name>
+
+        <imageFilename>20130104200219254.jpg</imageFilename>
+
+        <imagePath>20130104200219254.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200219254.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>452</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>杏仁</name>
+
+        <imageFilename>20130104200231797.jpg</imageFilename>
+
+        <imagePath>20130104200231797.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200231797.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>453</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>花生</name>
+
+        <imageFilename>20130104200243494.jpg</imageFilename>
+
+        <imagePath>20130104200243494.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200243494.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>454</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>核桃</name>
+
+        <imageFilename>20130104200255298.jpg</imageFilename>
+
+        <imagePath>20130104200255298.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200255298.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>455</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>芝麻</name>
+
+        <imageFilename>20130104200310423.jpg</imageFilename>
+
+        <imagePath>20130104200310423.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200310423.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>456</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>桂圆</name>
+
+        <imageFilename>2013010420032282.jpg</imageFilename>
+
+        <imagePath>2013010420032282.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010420032282.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>533</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>蜜枣</name>
+
+        <imageFilename>20131014161336489.jpg</imageFilename>
+
+        <imagePath>20131014161336489.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131014161336489.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>586</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>榛子</name>
+
+        <imageFilename>20131128171337173.jpg</imageFilename>
+
+        <imagePath>20131128171337173.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128171337173.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>594</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>葡萄干</name>
+
+        <imageFilename>20131128173315658.jpg</imageFilename>
+
+        <imagePath>20131128173315658.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128173315658.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>648</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>瓜子仁</name>
+
+        <imageFilename>20131220131832225.jpg</imageFilename>
+
+        <imagePath>20131220131832225.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220131832225.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>651</materialId>
+
+        <materialTypeId>32</materialTypeId>
+
+        <name>乌梅</name>
+
+        <imageFilename>20131220132242287.jpg</imageFilename>
+
+        <imagePath>20131220132242287.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220132242287.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>36</materialTypeId>
+
+      <name>粮豆米面类</name>
+
+      <tblMaterial>
+        <materialId>303</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>黄豆</name>
+
+        <imageFilename>20130104172613181.jpg</imageFilename>
+
+        <imagePath>20130104172613181.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172613181.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>304</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>绿豆</name>
+
+        <imageFilename>20130104172625605.jpg</imageFilename>
+
+        <imagePath>20130104172625605.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172625605.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>307</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>红豆</name>
+
+        <imageFilename>20130104172741712.jpg</imageFilename>
+
+        <imagePath>20130104172741712.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172741712.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>308</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>黑豆</name>
+
+        <imageFilename>20130104172803947.jpg</imageFilename>
+
+        <imagePath>20130104172803947.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172803947.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>309</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>花豆</name>
+
+        <imageFilename>20130104172820583.jpg</imageFilename>
+
+        <imagePath>20130104172820583.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104172820583.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>653</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>赤小豆</name>
+
+        <imageFilename>20131220153509569.jpg</imageFilename>
+
+        <imagePath>20131220153509569.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220153509569.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>479</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>眉豆</name>
+
+        <imageFilename>20130328145923411.jpg</imageFilename>
+
+        <imagePath>20130328145923411.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328145923411.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>480</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>黑米</name>
+
+        <imageFilename>20130328150026442.jpg</imageFilename>
+
+        <imagePath>20130328150026442.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328150026442.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>481</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>糯米</name>
+
+        <imageFilename>20130328151036130.jpg</imageFilename>
+
+        <imagePath>20130328151036130.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328151036130.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>486</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>糙米</name>
+
+        <imageFilename>20130615151526734.jpg</imageFilename>
+
+        <imagePath>20130615151526734.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130615151526734.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>490</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>大米</name>
+
+        <imageFilename>20130713084504412.jpg</imageFilename>
+
+        <imagePath>20130713084504412.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130713084504412.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>494</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>红米</name>
+
+        <imageFilename>2013072710331053.jpg</imageFilename>
+
+        <imagePath>2013072710331053.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013072710331053.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>513</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>紫米</name>
+
+        <imageFilename>20130909151043182.jpg</imageFilename>
+
+        <imagePath>20130909151043182.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130909151043182.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>515</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>小米</name>
+
+        <imageFilename>2013091115082310.jpg</imageFilename>
+
+        <imagePath>2013091115082310.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013091115082310.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>562</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>燕麦</name>
+
+        <imageFilename>20131116174835875.jpg</imageFilename>
+
+        <imagePath>20131116174835875.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131116174835875.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>565</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>荞麦</name>
+
+        <imageFilename>20131126174900236.jpg</imageFilename>
+
+        <imagePath>20131126174900236.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131126174900236.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>623</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>小麦</name>
+
+        <imageFilename>20131218173526756.jpg</imageFilename>
+
+        <imagePath>20131218173526756.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131218173526756.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>588</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>玉米碎</name>
+
+        <imageFilename>20131128172046236.jpg</imageFilename>
+
+        <imagePath>20131128172046236.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128172046236.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>484</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>面粉</name>
+
+        <imageFilename>20130518113402676.jpg</imageFilename>
+
+        <imagePath>20130518113402676.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130518113402676.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>534</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>糯米粉</name>
+
+        <imageFilename>20131014161427395.jpg</imageFilename>
+
+        <imagePath>20131014161427395.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131014161427395.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>528</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>澄面</name>
+
+        <imageFilename>20131014160937317.jpg</imageFilename>
+
+        <imagePath>20131014160937317.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131014160937317.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>657</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>全麦粉</name>
+
+        <imageFilename>20131220181330725.jpg</imageFilename>
+
+        <imagePath>20131220181330725.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220181330725.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>559</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>玉米粉</name>
+
+        <imageFilename>20131116172750906.jpg</imageFilename>
+
+        <imagePath>20131116172750906.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131116172750906.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>510</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>面条</name>
+
+        <imageFilename>20130907110353376.jpg</imageFilename>
+
+        <imagePath>20130907110353376.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130907110353376.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>463</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>粉丝</name>
+
+        <imageFilename>2013010420061539.jpg</imageFilename>
+
+        <imagePath>2013010420061539.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010420061539.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>464</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>年糕</name>
+
+        <imageFilename>20130104200629555.jpg</imageFilename>
+
+        <imagePath>20130104200629555.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200629555.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>470</materialId>
+
+        <materialTypeId>36</materialTypeId>
+
+        <name>汤圆</name>
+
+        <imageFilename>2013032811453345.jpg</imageFilename>
+
+        <imagePath>2013032811453345.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013032811453345.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>35</materialTypeId>
+
+      <name>烘焙类</name>
+
+      <tblMaterial>
+        <materialId>626</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>可可粉</name>
+
+        <imageFilename>20131220103601975.jpg</imageFilename>
+
+        <imagePath>20131220103601975.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220103601975.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>267</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>奶油</name>
+
+        <imageFilename>20131220110044787.jpg</imageFilename>
+
+        <imagePath>20131220110044787.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220110044787.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>628</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>巧克力</name>
+
+        <imageFilename>20131220110518959.jpg</imageFilename>
+
+        <imagePath>20131220110518959.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220110518959.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>630</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>塔塔粉</name>
+
+        <imageFilename>20131220110736100.jpg</imageFilename>
+
+        <imagePath>20131220110736100.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220110736100.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>631</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>抹茶粉</name>
+
+        <imageFilename>20131220110800366.jpg</imageFilename>
+
+        <imagePath>20131220110800366.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220110800366.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>632</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>咖啡粉</name>
+
+        <imageFilename>20131220110908537.jpg</imageFilename>
+
+        <imagePath>20131220110908537.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220110908537.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>633</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>奶酪</name>
+
+        <imageFilename>20131220111050991.jpg</imageFilename>
+
+        <imagePath>20131220111050991.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220111050991.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>634</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>绿茶粉</name>
+
+        <imageFilename>20131220111140772.jpg</imageFilename>
+
+        <imagePath>20131220111140772.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220111140772.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>635</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>草莓酱</name>
+
+        <imageFilename>20131220111219272.jpg</imageFilename>
+
+        <imagePath>20131220111219272.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220111219272.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>636</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>樱桃酒</name>
+
+        <imageFilename>20131220111243319.jpg</imageFilename>
+
+        <imagePath>20131220111243319.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220111243319.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>638</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>明胶粉</name>
+
+        <imageFilename>20131220111952991.jpg</imageFilename>
+
+        <imagePath>20131220111952991.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220111952991.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>639</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>白兰地</name>
+
+        <imageFilename>20131220112403897.jpg</imageFilename>
+
+        <imagePath>20131220112403897.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220112403897.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>644</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>鹰粟粉</name>
+
+        <imageFilename>20131220120234616.jpg</imageFilename>
+
+        <imagePath>20131220120234616.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220120234616.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>650</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>椰香粉</name>
+
+        <imageFilename>20131220132124428.jpg</imageFilename>
+
+        <imagePath>20131220132124428.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220132124428.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>654</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>香草粉</name>
+
+        <imageFilename>20131220154032459.jpg</imageFilename>
+
+        <imagePath>20131220154032459.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220154032459.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>655</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>酥油</name>
+
+        <imageFilename>20131220161049397.jpg</imageFilename>
+
+        <imagePath>20131220161049397.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220161049397.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>656</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>果冻粉</name>
+
+        <imageFilename>20131220161541709.jpg</imageFilename>
+
+        <imagePath>20131220161541709.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220161541709.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>658</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>吉利丁</name>
+
+        <imageFilename>20131221135025912.jpg</imageFilename>
+
+        <imagePath>20131221135025912.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131221135025912.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>659</materialId>
+
+        <materialTypeId>35</materialTypeId>
+
+        <name>吉士粉</name>
+
+        <imageFilename>20131221145058787.jpg</imageFilename>
+
+        <imagePath>20131221145058787.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131221145058787.jpg</imagePathName>
+      </tblMaterial>
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>34</materialTypeId>
+
+      <name>常见中药材</name>
+
+        <tblMaterial>
+            <materialId>446</materialId>
+            
+            <materialTypeId>34</materialTypeId>
+            
+            <name>枸杞</name>
+            
+            <imageFilename>20130104200041592.jpg</imageFilename>
+            
+            <imagePath>20130104200041592.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20130104200041592.jpg</imagePathName>
+        </tblMaterial>
+        
+      <tblMaterial>
+        <materialId>465</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>燕窝</name>
+
+        <imageFilename>20130104200643771.jpg</imageFilename>
+
+        <imagePath>20130104200643771.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200643771.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>466</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>薏米</name>
+
+        <imageFilename>20130104200701198.jpg</imageFilename>
+
+        <imagePath>20130104200701198.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200701198.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>489</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>阿胶</name>
+
+        <imageFilename>20130712104035204.jpg</imageFilename>
+
+        <imagePath>20130712104035204.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130712104035204.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>506</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>甘草</name>
+
+        <imageFilename>20130905203721970.jpg</imageFilename>
+
+        <imagePath>20130905203721970.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130905203721970.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>509</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>川芎</name>
+
+        <imageFilename>20130905203817283.jpg</imageFilename>
+
+        <imagePath>20130905203817283.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130905203817283.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>524</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>党参</name>
+
+        <imageFilename>20131012155459962.jpg</imageFilename>
+
+        <imagePath>20131012155459962.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131012155459962.jpg</imagePathName>
+      </tblMaterial>
+        
+        
+        
+        <tblMaterial>
+            <materialId>508</materialId>
+            
+            <materialTypeId>34</materialTypeId>
+            
+            <name>当归</name>
+            
+            <imageFilename>2013090520374948.jpg</imageFilename>
+            
+            <imagePath>2013090520374948.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/2013090520374948.jpg</imagePathName>
+        </tblMaterial>
+
+      <tblMaterial>
+        <materialId>525</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>生地</name>
+
+        <imageFilename>20131012155523508.jpg</imageFilename>
+
+        <imagePath>20131012155523508.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131012155523508.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>527</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>金银花</name>
+
+        <imageFilename>20131012202622618.jpg</imageFilename>
+
+        <imagePath>20131012202622618.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131012202622618.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>537</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>西洋参</name>
+
+        <imageFilename>20131015143458739.jpg</imageFilename>
+
+        <imagePath>20131015143458739.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131015143458739.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>538</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>陈皮</name>
+
+        <imageFilename>20131018092453286.jpg</imageFilename>
+
+        <imagePath>20131018092453286.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131018092453286.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>541</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>黄芪</name>
+
+        <imageFilename>20131018095803817.jpg</imageFilename>
+
+        <imagePath>20131018095803817.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131018095803817.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>547</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>白术</name>
+
+        <imageFilename>20131024201356630.jpg</imageFilename>
+
+        <imagePath>20131024201356630.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131024201356630.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>551</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>黄精</name>
+
+        <imageFilename>20131024201557755.jpg</imageFilename>
+
+        <imagePath>20131024201557755.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131024201557755.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>561</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>荷叶</name>
+
+        <imageFilename>20131116174215875.jpg</imageFilename>
+
+        <imagePath>20131116174215875.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131116174215875.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>563</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>白芍</name>
+
+        <imageFilename>20131122163415844.jpg</imageFilename>
+
+        <imagePath>20131122163415844.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131122163415844.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>566</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>人参</name>
+
+        <imageFilename>20131126175304814.jpg</imageFilename>
+
+        <imagePath>20131126175304814.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131126175304814.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>567</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>石斛</name>
+
+        <imageFilename>20131126175320330.jpg</imageFilename>
+
+        <imagePath>20131126175320330.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131126175320330.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>568</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>五味子</name>
+
+        <imageFilename>20131126175428486.jpg</imageFilename>
+
+        <imagePath>20131126175428486.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131126175428486.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>569</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>玉竹</name>
+
+        <imageFilename>20131128162410127.jpg</imageFilename>
+
+        <imagePath>20131128162410127.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128162410127.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>571</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>灵芝</name>
+
+        <imageFilename>20131128162952986.jpg</imageFilename>
+
+        <imagePath>20131128162952986.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128162952986.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>572</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>菟丝子</name>
+
+        <imageFilename>20131128163011986.jpg</imageFilename>
+
+        <imagePath>20131128163011986.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128163011986.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>574</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>麦冬</name>
+
+        <imageFilename>20131128164250595.jpg</imageFilename>
+
+        <imagePath>20131128164250595.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128164250595.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>576</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>菊花</name>
+
+        <imageFilename>20131128164700767.jpg</imageFilename>
+
+        <imagePath>20131128164700767.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128164700767.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>577</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>莲子心</name>
+
+        <imageFilename>20131128164900611.jpg</imageFilename>
+
+        <imagePath>20131128164900611.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128164900611.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>578</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>丹参</name>
+
+        <imageFilename>20131128165022970.jpg</imageFilename>
+
+        <imagePath>20131128165022970.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128165022970.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>579</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>罗布麻</name>
+
+        <imageFilename>20131128165130439.jpg</imageFilename>
+
+        <imagePath>20131128165130439.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128165130439.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>581</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>绞股蓝</name>
+
+        <imageFilename>20131128165507720.jpg</imageFilename>
+
+        <imagePath>20131128165507720.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128165507720.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>582</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>决明子</name>
+
+        <imageFilename>20131128165626189.jpg</imageFilename>
+
+        <imagePath>20131128165626189.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128165626189.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>583</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>桑葚干</name>
+
+        <imageFilename>20131128165702205.jpg</imageFilename>
+
+        <imagePath>20131128165702205.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128165702205.jpg</imagePathName>
+      </tblMaterial>
+
+     
+      <tblMaterial>
+        <materialId>598</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>熟地</name>
+
+        <imageFilename>20131203190643182.jpg</imageFilename>
+
+        <imagePath>20131203190643182.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131203190643182.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>604</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>巴戟天</name>
+
+        <imageFilename>20131212185028934.jpg</imageFilename>
+
+        <imagePath>20131212185028934.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131212185028934.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>605</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>槐花</name>
+
+        <imageFilename>20131212185211762.jpg</imageFilename>
+
+        <imagePath>20131212185211762.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131212185211762.jpg</imagePathName>
+      </tblMaterial>
+
+      
+
+      <tblMaterial>
+        <materialId>607</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>海马</name>
+
+        <imageFilename>20131212185254528.jpg</imageFilename>
+
+        <imagePath>20131212185254528.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131212185254528.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>608</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>鹿茸</name>
+
+        <imageFilename>20131212185339699.jpg</imageFilename>
+
+        <imagePath>20131212185339699.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131212185339699.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>609</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>玫瑰花</name>
+
+        <imageFilename>20131212185357715.jpg</imageFilename>
+
+        <imagePath>20131212185357715.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131212185357715.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>615</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>葛根</name>
+
+        <imageFilename>20131218154126272.jpg</imageFilename>
+
+        <imagePath>20131218154126272.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131218154126272.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>616</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>何首乌</name>
+
+        <imageFilename>2013121815423206.jpg</imageFilename>
+
+        <imagePath>2013121815423206.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013121815423206.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>617</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>莱菔子</name>
+
+        <imageFilename>20131218154441600.jpg</imageFilename>
+
+        <imagePath>20131218154441600.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131218154441600.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>621</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>淮山</name>
+
+        <imageFilename>20131218173157397.jpg</imageFilename>
+
+        <imagePath>20131218173157397.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131218173157397.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>622</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>芡实</name>
+
+        <imageFilename>20131218173502272.jpg</imageFilename>
+
+        <imagePath>20131218173502272.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131218173502272.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>624</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>麦芽</name>
+
+        <imageFilename>20131219092242944.jpg</imageFilename>
+
+        <imagePath>20131219092242944.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131219092242944.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>625</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>川贝</name>
+
+        <imageFilename>20131219110927522.jpg</imageFilename>
+
+        <imagePath>20131219110927522.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131219110927522.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>662</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>益母草</name>
+
+        <imageFilename>20131224130951947.jpg</imageFilename>
+
+        <imagePath>20131224130951947.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131224130951947.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>661</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>冬虫夏草</name>
+
+        <imageFilename>20131224130907400.jpg</imageFilename>
+
+        <imagePath>20131224130907400.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131224130907400.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>660</materialId>
+
+        <materialTypeId>34</materialTypeId>
+
+        <name>红花</name>
+
+        <imageFilename>20131224130724509.jpg</imageFilename>
+
+        <imagePath>20131224130724509.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131224130724509.jpg</imagePathName>
+      </tblMaterial>
+        <tblMaterial>
+            <materialId>504</materialId>
+            
+            <materialTypeId>34</materialTypeId>
+            
+            <name>桃仁</name>
+            
+            <imageFilename>20130905190136814.jpg</imageFilename>
+            
+            <imagePath>20130905190136814.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20130905190136814.jpg</imagePathName>
+        </tblMaterial>
+
+        <tblMaterial>
+            <materialId>666</materialId>
+            
+            <materialTypeId>34</materialTypeId>
+            
+            <name>茯苓</name>
+            
+            <imageFilename>20131226140415525.jpg</imageFilename>
+            
+            <imagePath>20131226140415525.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20131226140415525.jpg</imagePathName>
+        </tblMaterial>
+        
+       
+
+        
+        
+    </tblMmaterialType>
+
+    <tblMmaterialType>
+      <materialTypeId>33</materialTypeId>
+
+      <name>其他</name>
+
+      <tblMaterial>
+        <materialId>459</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>酸菜</name>
+
+        <imageFilename>20130104200516525.jpg</imageFilename>
+
+        <imagePath>20130104200516525.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200516525.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>460</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>梅菜</name>
+
+        <imageFilename>2013010420053188.jpg</imageFilename>
+
+        <imagePath>2013010420053188.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010420053188.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>461</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>外婆菜</name>
+
+        <imageFilename>20130104200550861.jpg</imageFilename>
+
+        <imagePath>20130104200550861.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130104200550861.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>462</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>萝卜干</name>
+
+        <imageFilename>2013010420060325.jpg</imageFilename>
+
+        <imagePath>2013010420060325.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013010420060325.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>545</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>霸王花</name>
+
+        <imageFilename>20131022115304781.jpg</imageFilename>
+
+        <imagePath>20131022115304781.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131022115304781.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>477</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>西米</name>
+
+        <imageFilename>20130328145736817.jpg</imageFilename>
+
+        <imagePath>20130328145736817.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130328145736817.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>501</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>火腿肠</name>
+
+        <imageFilename>20130820163312470.jpg</imageFilename>
+
+        <imagePath>20130820163312470.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130820163312470.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>546</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>魔芋结</name>
+
+        <imageFilename>2013102216134662.jpg</imageFilename>
+
+        <imagePath>2013102216134662.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/2013102216134662.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>589</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>绿茶</name>
+
+        <imageFilename>20131128172258705.jpg</imageFilename>
+
+        <imagePath>20131128172258705.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128172258705.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>692</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>红茶</name>
+
+        <imageFilename>20131128173040298.jpg</imageFilename>
+
+        <imagePath>20131128173040298.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131128173040298.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>652</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>咖啡豆</name>
+
+        <imageFilename>20131220152845959.jpg</imageFilename>
+
+        <imagePath>20131220152845959.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220152845959.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>564</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>蜂蜜</name>
+
+        <imageFilename>20131126174146502.jpg</imageFilename>
+
+        <imagePath>20131126174146502.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131126174146502.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>603</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>腐乳</name>
+
+        <imageFilename>20131209105440934.jpg</imageFilename>
+
+        <imagePath>20131209105440934.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131209105440934.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>645</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>红酒</name>
+
+        <imageFilename>20131220120945147.jpg</imageFilename>
+
+        <imagePath>20131220120945147.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220120945147.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>649</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>猪油</name>
+
+        <imageFilename>20131220131954678.jpg</imageFilename>
+
+        <imagePath>20131220131954678.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131220131954678.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>495</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>牛奶</name>
+
+        <imageFilename>20130727140506662.jpg</imageFilename>
+
+        <imagePath>20130727140506662.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130727140506662.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>511</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>奶粉</name>
+
+        <imageFilename>20130907114933829.jpg</imageFilename>
+
+        <imagePath>20130907114933829.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20130907114933829.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>531</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>红豆沙</name>
+
+        <imageFilename>20131014161217457.jpg</imageFilename>
+
+        <imagePath>20131014161217457.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131014161217457.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>532</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>莲蓉</name>
+
+        <imageFilename>20131014161233223.jpg</imageFilename>
+
+        <imagePath>20131014161233223.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131014161233223.jpg</imagePathName>
+      </tblMaterial>
+
+      <tblMaterial>
+        <materialId>535</materialId>
+
+        <materialTypeId>33</materialTypeId>
+
+        <name>椰蓉</name>
+
+        <imageFilename>20131014161541504.jpg</imageFilename>
+
+        <imagePath>20131014161541504.jpg</imagePath>
+
+        <imagePathName>D:/HandheldKitchen/ipad/20131014161541504.jpg</imagePathName>
+      </tblMaterial>
+        
+        <tblMaterial>
+            <materialId>606</materialId>
+            
+            <materialTypeId>33</materialTypeId>
+            
+            <name>虫草花</name>
+            
+            <imageFilename>20131212185233434.jpg</imageFilename>
+            
+            <imagePath>20131212185233434.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20131212185233434.jpg</imagePathName>
+        </tblMaterial>
+        
+        <tblMaterial>
+            <materialId>584</materialId>
+            
+            <materialTypeId>33</materialTypeId>
+            
+            <name>海底椰</name>
+            
+            <imageFilename>20131128165824470.jpg</imageFilename>
+            
+            <imagePath>20131128165824470.jpg</imagePath>
+            
+            <imagePathName>D:/HandheldKitchen/ipad/20131128165824470.jpg</imagePathName>
+        </tblMaterial>
+
+        
+    </tblMmaterialType>
+  </entity>
+</response>
