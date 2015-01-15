@@ -12,5 +12,5 @@
 
 @property (weak, nonatomic) IBOutlet UIButton *firstButton;
 @property (weak, nonatomic) IBOutlet UILabel *hideLabel;
-
+ 
 @end
